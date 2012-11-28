@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: pl.smeagol.magento.completion
+OpenIDE-Module-Localizing-Bundle: pl/smeagol/magento/completion/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
